@@ -1,6 +1,13 @@
 <div align="center">
 
-![Header](https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a1a2e,100:16213e&height=180&section=header&text=Jaweriya%20Khan&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Developer&descAlignY=58&descColor=00d4ff)
+<img src="https://user-images.githubusercontent.com/74038190/242390524-0c7eb6ed-663b-4ce4-bfbd-18239a38ba1b.gif" width="100%">
+
+</div>
+
+<div align="center">
+
+# Jaweriya Khan
+### Full Stack Developer
 
 </div>
 
@@ -12,7 +19,7 @@
 
 </div>
 
-<img align="right" alt="Girl Coding at Night" width="320" src="https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif">
+<img align="right" alt="Girl Coding" width="320" src="https://user-images.githubusercontent.com/74038190/248884004-af212da4-8588-4d7c-8400-16e56f2746a0.gif">
 
 - 🔭 I'm currently working on **AI-Integrated Projects**
 - 🌱 I'm currently learning **Advanced Full Stack Development**
