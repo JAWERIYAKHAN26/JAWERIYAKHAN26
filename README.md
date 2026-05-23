@@ -1,21 +1,9 @@
 <div align="center">
 
-<img src="https://user-images.githubusercontent.com/74038190/242390524-0c7eb6ed-663b-4ce4-bfbd-18239a38ba1b.gif" width="100%">
-
-</div>
-
-<div align="center">
-
-# Jaweriya Khan
-### Full Stack Developer
-
-</div>
-
-<div align="center">
+<img src="https://user-images.githubusercontent.com/74038190/242390524-0c7eb6ed-663b-4ce4-bfbd-18239a38ba1b.gif" width="100%" height="200">
 
 ## Hi 👋, I'm Jaweriya Khan
-
-### A passionate Full Stack Developer from Islamabad, Pakistan 🇵🇰
+### Full Stack Developer from Islamabad, Pakistan 🇵🇰
 
 </div>
 
