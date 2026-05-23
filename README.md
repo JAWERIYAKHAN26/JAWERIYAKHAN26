@@ -1,30 +1,36 @@
 <div align="center">
 
-![Header](https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a1a2e,100:16213e&height=200&section=header&text=Jaweriya%20Khan&fontSize=50&fontColor=00d4ff&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Developer%20%7C%20MERN%20%C2%B7%20React%20Native%20%C2%B7%20PostgreSQL&descAlignY=58&descColor=ffffff)
-
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00D4FF&center=true&vCenter=true&width=600&lines=Full+Stack+Developer+Who+Ships+%F0%9F%9A%80;MERN+%7C+React+Native+%7C+PostgreSQL;Built+AI-Integrated+Alumni+Platform;Fresh+Grad+%7C+Available+Immediately)](https://git.io/typing-svg)
+![Header](https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a1a2e,100:16213e&height=180&section=header&text=Jaweriya%20Khan&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Developer&descAlignY=58&descColor=00d4ff)
 
 </div>
 
+<div align="center">
+
+## Hi 👋, I'm Jaweriya Khan
+
+### A passionate Full Stack Developer from Islamabad, Pakistan 🇵🇰
+
+</div>
+
+<img align="right" alt="Girl Coding at Night" width="320" src="https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif">
+
+- 🔭 I'm currently working on **AI-Integrated Projects**
+- 🌱 I'm currently learning **Advanced Full Stack Development**
+- 💬 Ask me about **React JS, React Native, Node.js, MongoDB, PostgreSQL**
+- 📫 How to reach me **jaweriyakhanofficial@gmail.com**
+- ⚡ Fun fact **I debug at 2AM and it actually works 😄**
+
+<br>
+
+**Connect with me:**
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jaweriya-khan-643112283)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:jaweriyakhanofficial@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/JAWERIYAKHAN26)
+
 ---
 
-### 👩‍💻 About Me
-
-```javascript
-const jaweriya = {
-  role:        "Full Stack Developer",
-  education:   "BS Software Engineering @ Riphah International University",
-  location:    "Islamabad, Pakistan 🇵🇰",
-  stack:       ["React JS", "Node.js", "MongoDB", "Express", "React Native", "PostgreSQL"],
-  highlight:   "Built AI-Integrated Alumni System → presented to 10+ industry companies",
-  status:      "Available for full-time roles immediately ✅",
-  contact:     "jaweriyakhanofficial@gmail.com"
-};
-```
-
----
-
-### 🛠️ Tech Stack
+**Skills:**
 
 | Category | Technologies |
 |----------|-------------|
@@ -45,28 +51,8 @@ const jaweriya = {
 |--------|------|------------|
 | 🎓 [AlumSphere — AI Alumni System](https://github.com/Wafi-wahid/AlumSphere-AlumniReconnectSystem) | MERN · PostgreSQL · AI | FYP · Presented to 10+ industry companies at Open House |
 | 💬 [ChitChat — AI Messaging App](https://github.com/JAWERIYAKHAN26/ChitChat-MessagingApp-ReactNative-AI) | React Native · Firebase · OpenAI | Real-time chat + AI suggestions |
-| 🛒 [Real Leather Co. — E-commerce](https://github.com/JAWERIYAKHAN26) | HTML · CSS · JavaScript | Internship project @ Volpea Solutions |
+| 🛒 Real Leather Co. — E-commerce | HTML · CSS · JavaScript | Internship project @ Volpea Solutions |
 | 📊 [SmartTrack — MERN App](https://github.com/JAWERIYAKHAN26/SmartTrack-MERN-ACP) | MERN Stack | Journaling · Calendar · Dashboard · Auth |
-
----
-
-### 💼 Experience
-
-🏢 **Web Development Intern** @ Volpea Solutions *(Jul–Sep 2025)*
-> Delivered 5+ projects · MERN Stack · PostgreSQL · Responsive UI
-
-🎨 **Graphic Designer** @ IEEE Women in Engineering *(Mar 2024–Present)*
-> Social media designs · Visual identity · Community outreach
-
----
-
-### 🏆 Highlights
-
-- 🎯 FYP presented to **Nayatel, Funsol, Agile Pakistan** and 7+ more companies
-- 🔐 **Cisco Cybersecurity** certified
-- 🌟 Organizer @ **Riphah Open House 2026**
-- 📱 Built **React Native + OpenAI** integrated mobile app
-- 🏛️ Member — Riphah AI Society · Skill Sphere · Cyber Sphere
 
 ---
 
@@ -78,19 +64,21 @@ const jaweriya = {
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=JAWERIYAKHAN26&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00d4ff)
 
+![GitHub Streak](https://streak-stats.demolab.com?user=JAWERIYAKHAN26&theme=tokyonight&hide_border=true&background=0d1117&ring=00d4ff&fire=00d4ff&currStreakLabel=00d4ff)
+
 </div>
 
 ---
 
-### 🤝 Connect With Me
+### 🏆 Highlights
 
-<div align="center">
+- 🎯 FYP presented to **Nayatel, Funsol, Agile Pakistan** and 7+ more companies at Open House
+- 🔐 **Cisco Cybersecurity** certified
+- 🌟 Organizer @ **Riphah Open House 2026**
+- 📱 Built **React Native + OpenAI GPT-4** integrated mobile app
+- 🏛️ Member — Riphah AI Society · Skill Sphere · Cyber Sphere
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jaweriya-khan-643112283)
-[![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jaweriyakhanofficial@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/JAWERIYAKHAN26)
-
-</div>
+---
 
 <div align="center">
 
