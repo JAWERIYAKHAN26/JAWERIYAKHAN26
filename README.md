@@ -44,10 +44,10 @@
 
 | Project | Tech | Highlights |
 |--------|------|------------|
-| 🎓 [AlumSphere — AI Alumni System](https://github.com/Wafi-wahid/AlumSphere-AlumniReconnectSystem) | MERN · PostgreSQL · AI | FYP · Presented to 10+ industry companies at Open House |
-| 💬 [ChitChat — AI Messaging App](https://github.com/JAWERIYAKHAN26/ChitChat-MessagingApp-ReactNative-AI) | React Native · Firebase · OpenAI | Real-time chat + AI suggestions |
+| 🎓 [AlumSphere — AI Alumni System](https://github.com/JAWERIYAKHAN26/SmartTrack---Task-Manager-Platform) | MERN · PostgreSQL · AI | FYP · Presented to 10+ industry companies at Open House |
+| 💬 [ChitChat — AI Messaging App](https://github.com/JAWERIYAKHAN26/ChitChat_MessagingApp_ReactNative_AI) | React Native · Firebase · OpenAI | Real-time chat + AI suggestions |
 | 🛒 Real Leather Co. — E-commerce | HTML · CSS · JavaScript | Internship project @ Volpea Solutions |
-| 📊 [SmartTrack — MERN App](https://github.com/JAWERIYAKHAN26/SmartTrack-MERN-ACP) | MERN Stack | Journaling · Calendar · Dashboard · Auth |
+| 📊 [SmartTrack — MERN App](https://github.com/JAWERIYAKHAN26/TheRealLeatherCo.-Ecommerce-Website) | MERN Stack | Journaling · Calendar · Dashboard · Auth |
 
 ---
 
